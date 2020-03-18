@@ -1,1 +1,1 @@
-# Indian-Sign-Language-Translator-Malayalam
+# Indian-Sign-Language-Translator-to-Malayalam
